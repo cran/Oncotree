@@ -1,8 +1,8 @@
 Package: Oncotree
 Type: Package
-Title: Estimating oncogenetic trees
-Version: 0.3.3
-Date: 2012-11-30
+Title: Estimating Oncogenetic Trees
+Version: 0.3.4
+Date: 2022-04-10
 Author: Aniko Szabo, Lisa Pappas
 Maintainer: Aniko Szabo <aszabo@mcw.edu>
 Depends: R (>= 2.10), boot
@@ -12,8 +12,8 @@ Description: Contains functions to construct and evaluate directed tree structur
 License: GPL (>= 2)
 Repository: CRAN
 Repository/R-Forge/Project: corrbin
-Repository/R-Forge/Revision: 75
-Repository/R-Forge/DateTimeStamp: 2013-12-10 21:28:47
-Date/Publication: 2013-12-13 00:13:22
-Packaged: 2013-12-10 23:27:26 UTC; rforge
+Repository/R-Forge/Revision: 113
+Repository/R-Forge/DateTimeStamp: 2022-04-10 22:27:36
+Date/Publication: 2022-04-11 09:12:36 UTC
 NeedsCompilation: no
+Packaged: 2022-04-10 22:52:17 UTC; rforge
