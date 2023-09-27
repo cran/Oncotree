@@ -10,13 +10,6 @@ Oncogenetic trees are directed tree structures that  model the process of
 occurrence of genetic alterations during carcinogenesis.
 }
 \details{
-\tabular{ll}{
-Package: \tab Oncotree\cr
-Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2007-01-30\cr
-License: \tab GPL 2 or newer\cr
-}
 
 A \bold{pure oncogenetic tree} is a directed rooted tree \emph{T} with a
 probability \eqn{\pi (e)} attached to each edge \emph{e} such that
@@ -25,7 +18,7 @@ it along the edges of the tree. This tree
 generates observations on the presence/absence of genetic events the following
 way: each edge \emph{e} is independently retained with probability \eqn{\pi
 (e)}; the set of vertices that are still reachable from the root 
-gives the set of the observed genetic evets.
+gives the set of the observed genetic events.
 
 To describe random deviations from the pure tree model an error model
 is added. 
